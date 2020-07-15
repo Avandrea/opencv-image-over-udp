@@ -1,0 +1,4 @@
+pip>=18
+Cython==0.29.19
+numpy==1.18.5
+opencv-python==4.2.0.34

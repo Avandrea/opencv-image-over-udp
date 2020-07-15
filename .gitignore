@@ -1,0 +1,12 @@
+bin/
+Example/CMakeFiles
+Example/cmake_install.cmake
+Example/CMakeCache.txt
+Example/Makefile
+Example/udpSend
+
+UDPClient_python/env
+
+*.pyc
+*.so
+*.o
